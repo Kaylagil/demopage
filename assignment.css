@@ -1,0 +1,27 @@
+.c{
+    margin:auto;
+    max-width:70%;
+    line-height: 32px;
+    
+    
+}
+.box{
+    position:fixed;
+    height: 150px;
+    width:150px;
+    float:left;
+    background:gray;
+    border: 1px solid black;
+    top:0;
+    left:0;
+    padding:40px;
+    margin:0;
+}
+.box22{
+    position: relative;
+    height: 150px;
+    width:150px;
+    float:left;
+    background:gray;
+    border: 1px solid black;
+}
